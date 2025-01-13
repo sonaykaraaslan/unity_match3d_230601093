@@ -1,9 +1,11 @@
+
+# WEBGL LİNK :  https://sonaykaraaslan.github.io/unity_match3d_230601093/
+
 # Tatlı Bahçe Macerası 🌺🍊✨
 
 ## İzmir Bakırçay Üniversitesi
 *Öğrenci No:* 230601093  
 *Geliştirici:* Sonay Karaaslan
-
 ---
 
 ### Büyülü Bahçeye Hoş Geldiniz! 🌈
@@ -50,9 +52,7 @@ Bahçemizin kapıları Unity Play'de sizleri bekliyor:
 4. En bereketli bahçeyi yaratın!
 
 
-## WebGL Yayını 🌐  
-Oyun, *Unity Play* üzerinden WebGL olarak yayınlanmıştır. Oyunu tarayıcınız üzerinden oynamak için aşağıdaki bağlantıyı kullanabilirsiniz:  
-[Proje Bağlantısı]()
+
 
 ## Teknoloji ve Araçlar 🛠  
 - *Oyun Motoru*: Unity  
