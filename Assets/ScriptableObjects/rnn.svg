@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Darker Purple background -->
+  <rect width="100%" height="100%" fill="#9370DB"/>
+  
+  <!-- Animated white circles -->
+  <circle cx="100" cy="150" r="30" fill="white" opacity="0.6">
+    <animate
+      attributeName="cy"
+      values="150;250;150"
+      dur="15s"
+      repeatCount="indefinite"
+      begin="0s"/>
+  </circle>
+  
+  <circle cx="300" cy="200" r="35" fill="white" opacity="0.5">
+    <animate
+      attributeName="cy"
+      values="200;300;200"
+      dur="15s"
+      repeatCount="indefinite"
+      begin="3s"/>
+  </circle>
+  
+  <circle cx="150" cy="350" r="40" fill="white" opacity="0.4">
+    <animate
+      attributeName="cy"
+      values="350;450;350"
+      dur="15s"
+      repeatCount="indefinite"
+      begin="6s"/>
+  </circle>
+  
+  <circle cx="250" cy="500" r="45" fill="white" opacity="0.5">
+    <animate
+      attributeName="cy"
+      values="500;600;500"
+      dur="15s"
+      repeatCount="indefinite"
+      begin="9s"/>
+  </circle>
+  
+  <circle cx="120" cy="650" r="35" fill="white" opacity="0.6">
+    <animate
+      attributeName="cy"
+      values="650;750;650"
+      dur="15s"
+      repeatCount="indefinite"
+      begin="12s"/>
+  </circle>
+  
+  <circle cx="280" cy="700" r="40" fill="white" opacity="0.4">
+    <animate
+      attributeName="cy"
+      values="700;800;700"
+      dur="15s"
+      repeatCount="indefinite"
+      begin="7s"/>
+  </circle>
+  
+  <circle cx="180" cy="250" r="38" fill="white" opacity="0.5">
+    <animate
+      attributeName="cy"
+      values="250;350;250"
+      dur="15s"
+      repeatCount="indefinite"
+      begin="4s"/>
+  </circle>
+  
+  <circle cx="320" cy="400" r="42" fill="white" opacity="0.4">
+    <animate
+      attributeName="cy"
+      values="400;500;400"
+      dur="15s"
+      repeatCount="indefinite"
+      begin="10s"/>
+  </circle>
+</svg>
